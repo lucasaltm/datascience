@@ -7,4 +7,4 @@ Este portfólio é uma compilação de alguns projetos de análise e ciência de
 
 ## Projetos:
 
-  - [Projeto1](README.md)
+  - [Análise sobre desmatamentos e incêndios florestais no Brasil](Amazon_Rainforest_Degradation.ipynb)
